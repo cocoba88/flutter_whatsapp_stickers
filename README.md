@@ -2,8 +2,10 @@
 
 [![pub package](https://img.shields.io/pub/v/flutter_whatsapp_stickers.svg)](https://pub.dartlang.org/packages/flutter_whatsapp_stickers)
 
-Note: This plugin is still under development and for now, only Android is supported.
-Feedback and Pull Requests welcome!
+This plugin is still under development and for now, only Android is supported.
+Feedback and Pull Requests are welcome!
+
+**I'm in the process of rebuilding this plugin and the new version will be released at the end of October 🤞**
 
 ## Getting Started
 
